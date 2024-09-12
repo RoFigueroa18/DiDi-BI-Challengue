@@ -1,6 +1,7 @@
 # DiDi-BI-Challengue
 
 DiDi Business Intelligence Challenge - Churn Prediction and Visitor Analysis
+
 Project Overview
 This project addresses several key business intelligence challenges using the DiDi dataset. We focus on analyzing visitor patterns, calculating week-over-week growth, forecasting future visitor trends, and predicting potential churn of DiDi app users based on a variety of features.
 
