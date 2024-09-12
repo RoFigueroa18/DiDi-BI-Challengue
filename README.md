@@ -16,3 +16,5 @@ Churn Prediction: Proposed an analytical approach to predict potential app churn
 
 Conclusion
 This project uses a combination of SQL queries, machine learning, and data analysis to tackle real-world business intelligence challenges. By leveraging historical data and additional insights, we propose actionable strategies to increase app downloads, prevent churn, and boost visitor numbers at restaurants.
+
+This project was supported by ChatGPT (OpenAI), Grammarly & Gemini, providing guidance and analytical insights throughout the process. Various analytical methods, SQL queries, and machine learning techniques were used.
